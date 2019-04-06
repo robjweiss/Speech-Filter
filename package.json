@@ -1,0 +1,29 @@
+{
+  "name": "speech-filter",
+  "version": "1.0.0",
+  "description": "Filters audio files based on language",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robjweiss/Speech-Filter.git"
+  },
+  "keywords": [
+    "natural",
+    "language",
+    "processing",
+    "audio"
+  ],
+  "author": "Rob Weiss",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/robjweiss/Speech-Filter/issues"
+  },
+  "homepage": "https://github.com/robjweiss/Speech-Filter#readme",
+  "dependencies": {
+    "@google-cloud/speech": "^2.3.1"
+  }
+}
