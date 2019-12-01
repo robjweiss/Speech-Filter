@@ -63,5 +63,5 @@ typings/
 # Google Cloud API Key
 key.json
 
-# Audio Files
-*.mp3
+# Bash script to set environment
+env.sh
